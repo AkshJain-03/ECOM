@@ -1,0 +1,23 @@
+{
+  "name": "Flutter App",
+  "short_name": "Flutapp",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFE902",
+  "theme_color": "#FFE902",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "purpose": "any"
+    }
+  ]
+}
